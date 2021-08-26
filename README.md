@@ -1,7 +1,8 @@
-# Group_5_Animal_Adoption
+# Austin Animal Adoption Analysis
 
-The project dashboard is created in Google Slides, and can be viewed through the following link:
-https://docs.google.com/presentation/d/1woJQrk37jf7KGV7xhvZCvFuRdxrqUlmahCp6gnrehiw/edit#slide=id.ge72201d6db_0_364
+Useful links:
+- Presentation: [Click here](https://docs.google.com/presentation/d/1woJQrk37jf7KGV7xhvZCvFuRdxrqUlmahCp6gnrehiw/edit#slide=id.ge72201d6db_0_364)
+- Dashboard in Tableau: [Click here](https://public.tableau.com/app/profile/rebecca.weirich/viz/Animal_Adoption/Story1?publish=yes)
 
 # Presentation
 
